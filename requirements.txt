@@ -1,0 +1,10 @@
+# Spark + runtime
+pyspark==3.5.1
+
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==14.0.2
+
+# Notebook
+jupyterlab==4.2.5
+ipykernel==6.29.5
